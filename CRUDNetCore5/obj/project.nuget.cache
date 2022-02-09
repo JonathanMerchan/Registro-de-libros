@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMI/B82Uj/1MZG7/rflkTmyZK4uBZhsC4z3YPlrH/9+1+2QrZJktEYbGXu9LctG/Zfm5WrzHlp5SafQm0GkHNg==",
+  "dgSpecHash": "FZccWCHAFX6JTteVxCsQR9hbAn5S4yTl9Nql0lwjVcmveteereOerkNpLaE0oE/UE+IDMCqyclEKkQKAnj3J6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Didier\\source\\repos\\CRUDNetCore5\\CRUDNetCore5\\CRUDNetCore5.csproj",
+  "projectFilePath": "D:\\Cristian\\GitHub\\Registro-de-libros\\CRUDNetCore5\\CRUDNetCore5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Didier\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Didier\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

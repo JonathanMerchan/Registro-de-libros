@@ -7253,11 +7253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Didier\\source\\repos\\CRUDNetCore5\\CRUDNetCore5\\CRUDNetCore5.csproj",
+      "projectUniqueName": "D:\\Cristian\\GitHub\\Registro-de-libros\\CRUDNetCore5\\CRUDNetCore5.csproj",
       "projectName": "CRUDNetCore5",
-      "projectPath": "C:\\Users\\Didier\\source\\repos\\CRUDNetCore5\\CRUDNetCore5\\CRUDNetCore5.csproj",
+      "projectPath": "D:\\Cristian\\GitHub\\Registro-de-libros\\CRUDNetCore5\\CRUDNetCore5.csproj",
       "packagesPath": "C:\\Users\\Didier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Didier\\source\\repos\\CRUDNetCore5\\CRUDNetCore5\\obj\\",
+      "outputPath": "D:\\Cristian\\GitHub\\Registro-de-libros\\CRUDNetCore5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Didier\\AppData\\Roaming\\NuGet\\NuGet.Config",
