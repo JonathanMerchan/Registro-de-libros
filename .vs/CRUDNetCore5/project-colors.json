@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "961fde63-952a-41ac-b38a-b8ef01df0b3a": {
+      "ProjectGuid": "961fde63-952a-41ac-b38a-b8ef01df0b3a",
+      "DisplayName": "CRUDNetCore5",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
